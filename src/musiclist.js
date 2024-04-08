@@ -26,13 +26,13 @@ export const musicList = writable([
         artist: "Artist: Manlin"
     },
     {
-        image: "img5.jpg",
+        image: "img3.jpg",
         audio: "empty.mp3",
         name: "Empty_Bgm",
         artist: "Artist: Manlin"
     },
     {
-        image: "img6.jpg",
+        image: "img2.jpg",
         audio: "anthaaruvipool.mp3",
         name: "Anthaaruvi_Bgm",
         artist: "Artist: Manlin"
@@ -44,13 +44,13 @@ export const musicList = writable([
         artist: "Artist: Manlin"
     },
     {
-        image: "img8.jpg",
+        image: "img5.jpg",
         audio: "swar_bgm.mp3",
         name: "Swar_Bgm",
         artist: "Artist: Manlin"
     },
     {
-        image: "img9.jpg",
+        image: "img7.jpg",
         audio: "ennoduneeirrunthal.mp3",
         name: "I-movie_Bgm",
         artist: "Artist: Manlin"
